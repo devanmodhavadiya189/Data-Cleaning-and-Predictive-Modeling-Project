@@ -91,7 +91,7 @@ These visualizations help in understanding the relationships between different c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnasMultani17/Data-Cleaning-and-Predictive-Modeling-Project.git
+   git clone https://github.com/devanmodhavadiya189/Data-Cleaning-and-Predictive-Modeling-Project
    ```
 
 2. Navigate to the project directory:
